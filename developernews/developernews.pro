@@ -4,7 +4,8 @@ TARGET = developernews
 RESOURCES += developernews.qrc
 
 QML_FILES += $$files(*.qml,true) \
-             $$files(*.js,true)
+             $$files(*.js,true) \
+             components
 
 CONF_FILES +=  developernews.apparmor \
                developernews.png
