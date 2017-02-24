@@ -1,0 +1,7 @@
+[Desktop Entry]
+_Name=developernews
+Exec=qmlscene %U developernews/Main.qml
+Icon=developernews/developernews.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true

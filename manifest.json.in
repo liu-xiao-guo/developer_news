@@ -1,0 +1,16 @@
+{
+    "name": "developernews.liu-xiao-guo",
+    "description": "description of developernews",
+    "architecture": "@CLICK_ARCH@",
+    "title": "developernews",
+    "hooks": {
+        "developernews": {
+            "apparmor": "developernews/developernews.apparmor",
+            "desktop":  "developernews/developernews.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
