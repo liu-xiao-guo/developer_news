@@ -26,14 +26,12 @@ MainView {
 
         Page {
             id: listPage
-            title: i18n.tr("Articles")
-            visible: false
+            header: PageHeader {
+                // id: pageHeader
+                title: i18n.tr("Articles")
+            }
 
-//            tools: ToolbarItems {
-//                ToolbarButton {
-//                    action: reloadAction
-//                }
-//            }
+            visible: false
 
             ArticleListView {
                 id: articleList
@@ -51,7 +49,10 @@ MainView {
 
         Page {
             id: contentPage
-            title: i18n.tr("Content")
+            header: PageHeader {
+                title: i18n.tr("Content")
+            }
+
             visible: false
 
             ArticleContent {

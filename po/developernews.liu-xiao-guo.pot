@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-02-24 03:09+0000\n"
+"POT-Creation-Date: 2017-02-24 03:20+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,14 +17,14 @@ msgstr ""
 "Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: /home/liuxg/snappy/desktop/developernews/developernews/Main.qml:29
+#: /home/liuxg/snappy/desktop/developernews/developernews/Main.qml:31
 msgid "Articles"
 msgstr ""
 
-#: /home/liuxg/snappy/desktop/developernews/developernews/Main.qml:54
+#: /home/liuxg/snappy/desktop/developernews/developernews/Main.qml:53
 msgid "Content"
 msgstr ""
 
-#: /home/liuxg/snappy/desktop/build-developernews-UbuntuSDK_for_vivid_x86_armhf_GCC_armhf_ubuntu_sdk_15_04-Debug/developernews/developernews.desktop.h:1
+#: /home/liuxg/snappy/desktop/build-developernews-UbuntuSDK_for_xenial_amd64_GCC_amd64_ubuntu_sdk_16_04-Debug/developernews/developernews.desktop.h:1
 msgid "developernews"
 msgstr ""
